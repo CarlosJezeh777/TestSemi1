@@ -1,0 +1,1 @@
+# Este archivo se utiliza para definir los modelos de datos que representan las entidades de la aplicación. Puede incluir clases que mapean a las tablas de la base de datos.
